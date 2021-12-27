@@ -9,6 +9,9 @@ Ver 1.0
 A new function complement WriteLn (Prev PrintLn), ReadLn that collects data until a new-line char is received. This makes it simple to use ASCII messages communication. 
 Available, Flush, DriverName added.
 
+Ver 1.1 
+Added some more boards
+
 Ver 1.2
 Upload of hex files to some Arduinos.
 Added WIFI TCP server/client support
