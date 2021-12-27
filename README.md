@@ -21,10 +21,17 @@ Upload of hexfiles over BT possible.
 All read/write functions can be used with serial OTG, BT, WIFI. 
 
 Content
-Arduino BT, some notes on upload over BT. 
-ArduinoTime, how to use lline oriented communication. 
-SerialOTG.aia, .apk  Serial terminal that shows the use of differnet read/write functions. 
-SerialOTG_1.2.pdf  documentation of SerialOTG. 
-SerialOTG_BT_WIFI.aia .apk  How to use upload, serial, BT, WIFI with SerialOTG. 
-Time.ino  Arduino code for ArduinoTime app. 
+Arduino BT, some notes on upload over BT.
+
+ArduinoTime, how to use lline oriented communication.
+
+SerialOTG.aia, .apk  Serial terminal that shows the use of differnet read/write functions.
+
+SerialOTG_1.2.pdf  documentation of SerialOTG.
+
+SerialOTG_BT_WIFI.aia .apk  How to use upload, serial, BT, WIFI with SerialOTG.
+
+Time.ino  Arduino code for ArduinoTime app.
+
 Led.ino Arduino code for display of led control. 
+
