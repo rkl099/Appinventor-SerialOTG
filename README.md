@@ -23,6 +23,7 @@ All read/write functions can be used with serial OTG, BT, WIFI.
 Content
 
 Arduino BT, some notes on upload over BT.
+
 ArduinoTime, how to use lline oriented communication.
 
 SerialOTG.aia, .apk  Serial terminal that shows the use of differnet read/write functions.
