@@ -2,7 +2,7 @@ New Appinventor extension that replaces Appinventor serial.
 This extension uses an heavily updated version of PysicaloidLibrary that solves a number of issues and refactored so it can coexist with the built in function when using 
 AI Companion.
 It has been tested with the following adapters: PL2303, PL2303HX, (PL2303HXN not implemented yet), FTDI FT232, CP210x, CH341, CH341 (“fake”)
-CdcAcm: Original Arduino Uno, Adafruit Feather_M0 and CLUE, Micro:bit, Teensy, OpenCR
+CdcAcm: Original Arduino Uno, Adafruit Feather_M0 and CLUE, Micro:bit, Teensy, OpenCR. ATTINY85 using DigiCDC library.
 
 Ver 1.0
 "Serial" removed from method names. Functions have been added to control RTS, DTR, Parity, read/write bytes of any value, read/write ASCII hex coded data translated to bytes on the serial line and function to read and write byte lists-
