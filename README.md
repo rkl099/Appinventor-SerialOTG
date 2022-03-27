@@ -20,6 +20,10 @@ Added isConnected() for BT, WIFI.
 Upload of hexfiles over BT possible. 
 All read/write functions can be used with serial OTG, BT, WIFI. 
 
+Ver 1.3
+Add DIGISPARK ATTINY85 CDC  VID=16D0
+Add CDC_ACM VID=10C4 PID=8C0F (EFM32LG360)
+
 Content
 
 Arduino BT, some notes on upload over BT.
