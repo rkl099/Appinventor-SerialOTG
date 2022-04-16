@@ -24,6 +24,9 @@ Ver 1.3
 Add DIGISPARK ATTINY85 CDC  VID=16D0
 Add CDC_ACM VID=10C4 PID=8C0F (EFM32LG360)
 
+Ver 1.2
+Add StopBits property
+
 Content
 
 Arduino BT, some notes on upload over BT.
@@ -32,7 +35,7 @@ ArduinoTime, how to use lline oriented communication.
 
 SerialOTG.aia, .apk  Serial terminal that shows the use of differnet read/write functions.
 
-SerialOTG_1.2.pdf  documentation of SerialOTG.
+SerialOTG_1.4            .pdf  documentation of SerialOTG.
 
 SerialOTG_BT_WIFI.aia .apk  How to use upload, serial, BT, WIFI with SerialOTG.
 
