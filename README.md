@@ -24,7 +24,7 @@ Ver 1.3
 Add DIGISPARK ATTINY85 CDC  VID=16D0
 Add CDC_ACM VID=10C4 PID=8C0F (EFM32LG360)
 
-Ver 1.2
+Ver 1.4
 Add StopBits property
 
 Content
