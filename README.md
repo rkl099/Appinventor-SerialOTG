@@ -41,5 +41,5 @@ SerialOTG_BT_WIFI.aia .apk  How to use upload, serial, BT, WIFI with SerialOTG.
 
 Time.ino  Arduino code for ArduinoTime app.
 
-Led.ino Arduino code for display of led control. 
+led.ino, led.ino, led.apk Simple example for controling a led on Arduino. 
 
