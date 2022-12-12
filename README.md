@@ -27,6 +27,9 @@ Add CDC_ACM VID=10C4 PID=8C0F (EFM32LG360)
 Ver 1.4
 Add StopBits property
 
+2212111  Add exaples on cotroling an Arduino LED
+
+
 Content
 
 Arduino BT, some notes on upload over BT.
