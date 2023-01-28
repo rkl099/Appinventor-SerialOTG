@@ -43,6 +43,7 @@ Possibility to force driver with property/method USBdriver. Must be set before o
 Extend timeout for TCP-clien 0.5s->5s for connections over LTE
 
 
+
 Content
 
 Arduino BT, some notes on upload over BT.
