@@ -29,6 +29,13 @@ Add StopBits property
 
 2212111  Add exaples on cotroling an Arduino LED
 
+230126   Ver 1.5 beta is available under Arduino-Debug directory
+Uppdated com.SerialOTG.aix, SeraialOTG.aia, SerialOTG.apk
+Changes:
+Compatible with Android12
+Default driver CDC if no VID/PID defined in the extension
+Possibility to force driver with property/method USBdriver. Must be set before open. See SerialOTG.apk )aia) for list of drivers
+Extend timeout for TCP-clien 0.5s->5s for connections over LTE
 
 Content
 
