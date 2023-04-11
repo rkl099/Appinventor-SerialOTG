@@ -29,7 +29,7 @@ Add StopBits property
 
 2212111  Add exaples on cotroling an Arduino LED
 
-230126   Ver 1.5 beta is available under Arduino-Debug directory
+230126   Ver 1.5
 
 Uppdated com.SerialOTG.aix, SeraialOTG.aia, SerialOTG.apk
 
