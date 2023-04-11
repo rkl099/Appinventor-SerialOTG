@@ -40,7 +40,7 @@ Default driver CDC if no VID/PID defined in the extension
 
 Possibility to force driver with property/method USBdriver. Must be set before open. See SerialOTG.apk )aia) for list of drivers
 
-Extend timeout for TCP-clien 0.5s->5s for connections over LTE
+Extend timeout for TCP-client 0.5s->5s for connections over LTE
 
 
 
