@@ -42,6 +42,8 @@ Possibility to force driver with property/method USBdriver. Must be set before o
 
 Extend timeout for TCP-client 0.5s->5s for connections over LTE
 
+Ver 1.6 beta (in debug directory)
+Improve FTDI write speed
 
 
 Content
