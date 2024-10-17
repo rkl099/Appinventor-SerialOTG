@@ -38,11 +38,11 @@ Compatible with Android12
 
 Default driver CDC if no VID/PID defined in the extension
 
-Possibility to force driver with property/method USBdriver. Must be set before open. See SerialOTG.apk )aia) for list of drivers
+Possibility to force driver with property/method USBdriver. Must be set before open. See SerialOTG.apk (aia) for list of drivers
 
 Extend timeout for TCP-client 0.5s->5s for connections over LTE
 
-Ver 1.6 beta (in debug directory)
+Ver 1.5.1
 Improve FTDI write speed
 
 
